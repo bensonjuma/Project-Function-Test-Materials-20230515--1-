@@ -1,0 +1,3 @@
+1. Run CLI.java.
+2. Input the test case in cli_input.txt one by one until all test cases are used out or err orrurs.
+3. Check the persentage of correct output with all the correct output given cli_input.txt.
